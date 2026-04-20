@@ -1,7 +1,7 @@
 # PES-VCS Lab Report
 
-**Name:** Prajwal G  
-**SRN:** PES1UG24CS590
+**Name:** Aditya TJ  
+**SRN:** PES1UG24CS031
 **Platform:** Ubuntu 24.04
 
 ---
@@ -10,7 +10,7 @@
 
 ```bash
 sudo apt update && sudo apt install -y gcc build-essential libssl-dev
-export PES_AUTHOR="Prajwal G <PES1UG24CS590>"
+export PES_AUTHOR="Aditya TJ <PES1UG24CS031>"
 make all
 ```
 
@@ -116,11 +116,11 @@ pointer atomically.
 
 ### Final — `make test-integration`
 
-![Integration test part 1](images/final_a.png)
+![Integration test part 1](images/final_1.png)
 
-![Integration test part 2](images/final_b.png)
+![Integration test part 2](images/final_2.png)
 
-![Integration test part 3](images/final_c.png)
+![Integration test part 3](images/final_3.png)
 
 
 ---
